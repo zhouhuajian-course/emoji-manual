@@ -904,7 +904,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Award Medal](#award-medal)
 - [Sport](#sport)
 - [Game](#game)
-- [Arts & Crafts](#arts--crafts)
+- [Arts & Crafts](#arts--crafts) 艺术和手艺
 
 #### Event
 
