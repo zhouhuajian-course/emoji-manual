@@ -10,16 +10,16 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 ## Table of Contents
 
-- [Smileys & Emotion](#smileys--emotion)
-- [People & Body](#people--body)
-- [Animals & Nature](#animals--nature)
-- [Food & Drink](#food--drink)
-- [Travel & Places](#travel--places)
-- [Activities](#activities)
-- [Objects](#objects)
-- [Symbols](#symbols)
-- [Flags](#flags)
-- [GitHub Custom Emoji](#github-custom-emoji)
+- [Smileys & Emotion](#smileys--emotion) 表情符号和情感
+- [People & Body](#people--body) 人物和身体
+- [Animals & Nature](#animals--nature) 动物和自然
+- [Food & Drink](#food--drink) 食物和饮料
+- [Travel & Places](#travel--places) 旅行和地点
+- [Activities](#activities) 活动
+- [Objects](#objects) 物品
+- [Symbols](#symbols) 符号
+- [Flags](#flags) 旗帜
+- [GitHub Custom Emoji](#github-custom-emoji) GitHub 自定义表情符号
 
 ### Smileys & Emotion
 
